@@ -1,5 +1,7 @@
 package _03_Switch_Statement_Practice;
 
+import java.util.Random;
+
 import javax.swing.JOptionPane;
 
 public class CustomButtonOptionPanes {

@@ -27,7 +27,7 @@ public class IntroToTemplates {
 	
 	//Here a template called Template is created as part of the calcStuff method
 	//The variable t can be any type: String, Object, Robot... whatever
-	public <Template> Template calcStuff(Template t, int r) {
+	public <Template> Template calcStuff(Template t, int r ) {
 		for (int i = 0; i < r; i++) {
 			System.out.println(t);
 		}
